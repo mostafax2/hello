@@ -1,6 +1,6 @@
 <?php
 
-namespace Mostafax\Hello;
+namespace Mostafax2\Hello;
 
 class Hello
 {
